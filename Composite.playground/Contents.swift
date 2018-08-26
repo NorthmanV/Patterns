@@ -18,14 +18,14 @@ class Infantryman: Unit {
     }
 }
 
-class InfantrymanStrong: Unit {
-    func getStrength() -> Int {
+class InfantrymanStrong: Infantryman {
+    override func getStrength() -> Int {
         return 3
     }
 }
 
-class InfantrymanWeak: Unit {
-    func getStrength() -> Int {
+class InfantrymanWeak: Infantryman {
+    override func getStrength() -> Int {
         return 1
     }
 }
