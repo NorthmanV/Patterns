@@ -12,6 +12,8 @@ Composes zero-or-more similar objects so that they can be manipulated as one obj
 ### Decorator
 Dynamically adds/overrides behaviour in an existing method of an object.
 
+### Facade
+Provides a simplified interface to a large body of code.
 
 ## Structural
 
