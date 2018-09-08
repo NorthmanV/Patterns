@@ -15,6 +15,9 @@ Dynamically adds/overrides behaviour in an existing method of an object.
 ### Facade
 Provides a simplified interface to a large body of code.
 
+### Flyweight
+Reduces the cost of creating and manipulating a large number of similar objects.
+
 ## Structural
 
 
