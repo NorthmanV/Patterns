@@ -18,6 +18,9 @@ Provides a simplified interface to a large body of code.
 ### Flyweight
 Reduces the cost of creating and manipulating a large number of similar objects.
 
+### Proxy
+Provides a placeholder for another object to control access, reduce cost, and reduce complexity.
+
 ## Structural
 
 
