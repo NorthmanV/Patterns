@@ -25,4 +25,9 @@ Provides a placeholder for another object to control access, reduce cost, and re
 
 
 ## Behavioral
+### Chain of responsibility 
+Delegates commands to a chain of processing objects.
+
+
+
 
