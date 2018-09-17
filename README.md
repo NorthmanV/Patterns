@@ -31,6 +31,9 @@ Delegates commands to a chain of processing objects.
 ### Command
 Creates objects which encapsulate actions and parameters.
 
+### Interpreter 
+Implements a specialized language.
+
 
 
 
