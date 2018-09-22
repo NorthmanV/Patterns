@@ -34,6 +34,8 @@ Creates objects which encapsulate actions and parameters.
 ### Interpreter 
 Implements a specialized language.
 
+### Iterator 
+Accesses the elements of an object sequentially without exposing its underlying representation.
 
 
 
