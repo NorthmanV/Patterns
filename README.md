@@ -1,5 +1,7 @@
 # Design Patterns
 ## Creational
+
+## Structural
 ### Adapter
 Allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
 
@@ -21,9 +23,6 @@ Reduces the cost of creating and manipulating a large number of similar objects.
 ### Proxy
 Provides a placeholder for another object to control access, reduce cost, and reduce complexity.
 
-## Structural
-
-
 ## Behavioral
 ### Chain of responsibility 
 Delegates commands to a chain of processing objects.
@@ -36,6 +35,9 @@ Implements a specialized language.
 
 ### Iterator 
 Accesses the elements of an object sequentially without exposing its underlying representation.
+
+### Mediator 
+Allows loose coupling between classes by being the only class that has detailed knowledge of their methods.
 
 
 
