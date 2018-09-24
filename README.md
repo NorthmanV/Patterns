@@ -39,5 +39,5 @@ Accesses the elements of an object sequentially without exposing its underlying 
 ### Mediator 
 Allows loose coupling between classes by being the only class that has detailed knowledge of their methods.
 
-
-
+### Memento 
+Provides the ability to restore an object to its previous state (undo).
