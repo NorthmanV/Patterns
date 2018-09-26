@@ -41,3 +41,6 @@ Allows loose coupling between classes by being the only class that has detailed 
 
 ### Memento 
 Provides the ability to restore an object to its previous state (undo).
+
+### Observer 
+Is a publish/subscribe pattern which allows a number of observer objects to see an event.
