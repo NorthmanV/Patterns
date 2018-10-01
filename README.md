@@ -47,3 +47,6 @@ Is a publish/subscribe pattern which allows a number of observer objects to see 
 
 ### State
 Allows an object to alter its behavior when its internal state changes.
+
+### Strategy 
+Allows one of a family of algorithms to be selected on-the-fly at runtime.
