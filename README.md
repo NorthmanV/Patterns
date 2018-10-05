@@ -1,5 +1,7 @@
 # Design Patterns
 ## Creational
+### Abstract factory
+Provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes.
 
 ## Structural
 ### Adapter
