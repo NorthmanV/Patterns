@@ -3,6 +3,12 @@
 ### Abstract factory
 Provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes.
 
+### Builder 
+Pattern constructs complex objects by separating construction and representation.
+
+### Factory method 
+Pattern creates objects without specifying the exact class to create.
+
 ## Structural
 ### Adapter
 Allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
