@@ -4,10 +4,16 @@
 Provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes.
 
 ### Builder 
-Pattern constructs complex objects by separating construction and representation.
+Constructs complex objects by separating construction and representation.
 
 ### Factory method 
-Pattern creates objects without specifying the exact class to create.
+Creates objects without specifying the exact class to create.
+
+### Prototype 
+Creates objects by cloning an existing object.
+
+### Singleton 
+Restricts object creation for a class to only one instance.
 
 ## Structural
 ### Adapter
